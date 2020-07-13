@@ -1,4 +1,5 @@
 Name,IP
 Google,8.8.8.8
 Yandex,8.8.4.4
-OfficeSubnet,192.168.55.198-210
+OfficeSubnet,192.168.1.1-254
+OfficeSubnet2,192.168.2.1-254
