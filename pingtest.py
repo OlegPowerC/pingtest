@@ -47,5 +47,3 @@ if __name__ == '__main__':
                     ServerString = Server["Name"] + " " + IpAddressEach + " " + Reach + "\n"
                     f.write(ServerString)
                     print(ServerString)
-
-
