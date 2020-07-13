@@ -1,8 +1,1 @@
-Datetime: 06/30/2020, 11:37:50
-Google 8.8.8.8 Ok
-Yandex 8.8.4.4 Ok
-Local 192.168.0.1 Error
-Datetime: 06/30/2020, 11:38:23
-Google 8.8.8.8 Ok
-Yandex 8.8.4.4 Ok
-Local 192.168.0.1 Error
+
